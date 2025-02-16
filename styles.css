@@ -1,0 +1,35 @@
+h1{
+    color: #36476D;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: Poppins;
+    margin-top: 146px;
+    margin-left: 405px;
+       
+}
+
+img{
+    max-width: 100%; 
+    max-height: 55px;
+    margin-top: 55px;
+    margin-left: 73px; 
+
+}
+
+.box{
+    background-color: #AFD7FA;
+    height: 143px;
+    width: 1320px;
+    margin-top: 246px;
+    margin-left: 73px;
+    border-radius: 30px;
+    border: 1px solid black;
+    
+}
+
+.container{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
