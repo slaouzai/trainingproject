@@ -71,9 +71,7 @@ img{
 }
 
 .whiteBox2{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+ 
     width: 1292px;
     height: 107px;
     margin: auto;
@@ -84,7 +82,7 @@ img{
     color: #36476D;
     font-weight: 600;
     font-size: 32px;
-    align-items: center;
+    padding: 30px;
 }
 
 .container2{
@@ -105,5 +103,5 @@ img{
     border-radius: 20px;
     font-size: 30px;
     color: white;
-    text-align: center;
+    align-items: center;
 }
